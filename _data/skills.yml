@@ -1,54 +1,34 @@
 languages:
   - item: C/C++
   - item: Python
-  - item: Rust
-  - item: Golang
-  - item: C#
   - item: Bash
   - item: SQL
-  - item: Assembly
-  - item: Lua
-  - item: NodeJS
+  - item: Golang
 
 frameworks:
-  - item: Docker
-  - item: OS Hardening
-  - item: API
-  - item: MySQL/MariaDB
-  - item: Self-Hosting
-  - item: Nextcloud
-  - item: Jellyfin
-  - item: Apache2
-  - item: pfSense FW
-  - item: OpenVPN
-  - item: Assetto Corsa
-  - item: FiveM
-  - item: Minecraft
-  - item: and more...
+  - item: DNS
+  - item: DHCP
+  - item: Apache
+  - item: Zabbix
+  - item: CheckMk
+  - item: Google Authenticator
+  - item: Proxy/Reverse Proxy
+  - item: DHCP Redundancy
+  - item: Load Balancing
 
 tools:
-  - item: Brute Force
-  - item: LFI/RFI/RCE
-  - item: SQL/XSS Injection
-  - item: Reverse Shell
-  - item: MiTM
-  - item: Vulnerabilities detection
-  - item: OSInt
-  - item: Reverse Engineering
-  - item: Cryptography
-  - item: Lockpicking
-  - item: BadUSB
-  - item: Access badge cloning
-  - item: DoS
+  - item: Cisco
+  - item: GNS3
+  - item: IPv4
+  - item: Switch
+  - item: Router
 
 design:
   - item: Active Directory
   - item: WSUS
   - item: Video Monitoring Server
-  - item: Genetec
-  - item: Symmetry
-  - item: Milestone
   - item: IIS
   - item: DHCP
   - item: DNS
+  - item: HyperV
   

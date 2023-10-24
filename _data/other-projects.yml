@@ -1,102 +1,18 @@
-- name: Penbox (private)
-  url: https://fastiraz.github.io/404.html
-  code: https://fastiraz.github.io/404.html
-  description: A toolbox for pentester as a Windows software with an UI.
-  used:
-    - thing: C# Windows Form
-    - thing: XML
-    - thing: Python
-    - thing: C
-    - thing: API
-
-- name: Documentations
-  url: https://fastiraz.gitbook.io/doc/
-  code: https://fastiraz.gitbook.io/doc/
-  description: A documentations for hacking, self-hosted servers, dev...
-  used:
-    - thing: MarkDown
-    - thing: Text
-
-- name: CSearch
-  url: https://github.com/Fastiraz/csearch
-  code: https://github.com/Fastiraz/csearch
-  description: An equivalent of GoBuster or DirSearch on C.
-  used:
-    - thing: C
-    - thing: TEXT
-
-- name: GOSINT
-  url: https://github.com/Fastiraz/gosint
-  code: https://github.com/Fastiraz/gosint
-  description: A Swiss Army Knife OSINT tool.
-  used:
-    - thing: Golang
-
-- name: Keylogger
-  url: https://github.com/Fastiraz/keylogger/
-  code: https://github.com/Fastiraz/keylogger/
-  description: A python keylogger wich it send data by sockets.
+- name: Plate Reader
+  url: https://github.com/leandre-chanzy/plate-reader/
+  code: https://github.com/leandre-chanzy/plate-reader/
+  description: A simple plate reader that send plate to a SQL database.
   used:
     - thing: Python
+    - thing: SQL
+    - thing: Bash
 
-- name: Shellgen
-  url: https://fastiraz.github.io/404.html
-  code: https://fastiraz.github.io/404.html
-  description: A python shellcode generator.
+- name: Hydroponic Cultivation (private)
+  url: https://leandre-chanzy.github.io/404/
+  code: https://leandre-chanzy.github.io/404/
+  description: Automation of a plant watering system.
   used:
-    - thing: Python
-
-- name: Discord Bot (Fasty's bot)
-  url: https://github.com/Fastiraz/Bot
-  code: https://github.com/Fastiraz/Bot
-  description: A Discord bot for music, ticket tool, logs.
-  used:
-    - thing: Python
-
-- name: Password Generator
-  url: https://fastiraz.github.io/password-generator
-  code: https://fastiraz.github.io/password-generator
-  description: A password generator with a beautiful UI design.
-  used:
-    - thing: HTML
-    - thing: CSS
-    - thing: JS
-
-- name: BForce
-  url: https://github.com/Fastiraz/Brute-Force
-  code: https://github.com/Fastiraz/Brute-Force
-  description: A python script for brute force most common protocols, files, URLs & simulate custom keystrokes.
-  used:
-    - thing: Python
-    - thing: Text
-
-- name: Light (private)
-  url: https://fastiraz.github.io/404.html
-  code: https://fastiraz.github.io/404.html
-  description: A software who allow you to manage light and smoke with DMX protocol.
-  used:
-    - thing: C# Windows Form
-    - thing: XML
-
-- name: Velocity (private)
-  url: https://fastiraz.github.io/404.html
-  code: https://fastiraz.github.io/404.html
-  description:
-    A FiveM server full optimized on RageUI with exclusives mappings and scripts.
-  used:
-    - thing: LUA
-    - thing: JS
-    - thing: C
-    - thing: MySQL
-    - thing: C#
-
-- name: Zeta (private)
-  url: https://fastiraz.github.io/404.html
-  code: https://fastiraz.github.io/404.html
-  description: SFTP software with modern design.
-  img: weather
-  used:
-    - thing: C#
+    - thing: C/C++
 
 - name: This website.
   url: https://github.com/bchiang7
